@@ -1,4 +1,4 @@
-# Greetings 👋
+# Hello there! <img src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="width: 50px !important; display: inline-block;" data-target="animated-image.originalImage">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=true&width=435&lines=Frontend+Developer;Angular+%26+Vue+Enthusiast;Based+in+Poland;Cycling+Addict+🚴‍♂️)](https://git.io/typing-svg)
 
@@ -27,7 +27,14 @@
 
 ---
 
-### 📊 Codewars
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://www.linkedin.com/in/niestierov-yehor">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=hardsoncore&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
+
+<br>
 
 [<img src="https://img.shields.io/codewars/users/hardsoncore?style=for-the-badge&logo=codewars&logoColor=B1361E&color=black" />](https://www.codewars.com/users/hardsoncore/badges/large)
-
