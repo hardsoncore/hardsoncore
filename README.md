@@ -1,29 +1,35 @@
 # Hello there! <img src="https://camo.githubusercontent.com/e4d9a2b54030bfed2b48b2c0ccd6abefd908e62bfef861861c5fbdea99c3b0da/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="width: 50px !important; display: inline-block;" data-target="animated-image.originalImage">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=true&width=435&lines=Frontend+Developer;Angular+%26+Vue+Enthusiast;Based+in+Poland;Cycling+Addict+🚴‍♂️)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=true&width=435&lines=Frontend+Developer;Angular+%26+Vue+Enthusiast;Based+in+Poland;Cycling+Addict+🚴‍♂️)](https://git.io/typing-svg)-->
 
-Я фронтенд-розробник з України, зараз живу в Польщі. Спеціалізуюся на створенні швидких та зручних інтерфейсів, використовуючи сучасні (і перевірені часом) фреймворки.
+I am a Ukrainian Frontend Developer currently based in Poland, specializing in building fast and user-friendly interfaces using a blend of modern and battle-tested frameworks. 
 
----
+Сore expertise lies in <b>Angular</b> and <b>Vue</b>, backed by <b>TypeScript</b> and <b>JavaScript</b>, allowing me to deliver scalable and performant web solutions. I ensure code reliability and logic correctness through comprehensive unit testing with <b>Jest</b>.
+My work is grounded in a solid understanding of software development principles, design patterns, and best practices to ensure maintainable and scalable codebases.
 
-### 🛠 Tech Stack
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crutch.png" alt="Crutch" width="30" height="30" /> Tech Stack 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
----
+<br>
 
-### ⚡ Факти про мене
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="30" height="30" /> Facts about me (that nobody asked for)
 
-* 🚴 **Cycling:** можу проїхати на велосипеді 150+ км за раз. Полюбляю байкпакінг. 
-* 🏕️ **Hiking:** мандри на своїх двоїх - ще одна моя пристрасть. Якщо я не комічу код, я десь у лісі або в горах з наметом.
-* 🐶 **Асистент:** маю кращого в світі код-рев'юера — це мій пес-амстафф Дюна.
-* 🎮 **Релакс:** книги та PS4 допомагають вивчати нові світи навіть довгими зимовими вечорами.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Biking.png" alt="Person Biking" width="25" height="25" /> **Cycling:** I can ride 150+ km in a single trip. I’m really into bikepacking.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Camping.png" alt="Camping" width="25" height="25" /> **Hiking:** exploring the world on my own two feet is another passion of mine. If I’m not coding, you’ll probably find me somewhere in the forest or in the mountains with a tent.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" /> **Assistant:** I have the best code reviewer in the world - my AmStaff dog, Diuna.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> **Recharge:** books and PS4 help me explore new worlds, even during long winter evenings.
+
+<br>
 
 ---
 
@@ -37,4 +43,5 @@
 
 <br>
 
-[<img src="https://img.shields.io/codewars/users/hardsoncore?style=for-the-badge&logo=codewars&logoColor=B1361E&color=black" />](https://www.codewars.com/users/hardsoncore/badges/large)
+
+<!--[<img src="https://img.shields.io/codewars/users/hardsoncore?style=for-the-badge&logo=codewars&logoColor=B1361E&color=black" />](https://www.codewars.com/users/hardsoncore/badges/large) -->
