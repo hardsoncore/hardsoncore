@@ -4,7 +4,7 @@
 
 I am a Ukrainian Frontend Developer currently based in Poland, specializing in building fast and user-friendly interfaces using a blend of modern and battle-tested frameworks. 
 
-Сore expertise lies in <b>Angular</b> and <b>Vue</b>, backed by <b>TypeScript</b> and <b>JavaScript</b>, allowing me to deliver scalable and performant web solutions. I ensure code reliability and logic correctness through comprehensive unit testing with <b>Jest</b>.
+Сore expertise centers on <b>Angular</b> and <b>Vue</b>, backed by <b>TypeScript</b> and <b>JavaScript</b>, allowing me to deliver scalable and performant web solutions. I ensure code reliability and logic correctness through comprehensive unit testing with <b>Jest</b>.
 My work is grounded in a solid understanding of software development principles, design patterns, and best practices to ensure maintainable and scalable codebases.
 
 <br>
