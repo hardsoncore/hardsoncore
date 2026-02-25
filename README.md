@@ -33,14 +33,12 @@ My work is grounded in a solid understanding of software development principles,
 
 ---
 
-<div style="display: flex;">
-  <a href="https://www.linkedin.com/in/niestierov-yehor">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://www.codewars.com/users/hardsoncore">
+    <img align="left" height="30" src="https://www.codewars.com/users/hardsoncore/badges/large" alt="Codewars Badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=hardsoncore&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
+  
+  <img align="right" height="30" src="https://komarev.com/ghpvc/?username=hardsoncore&style=for-the-badge&color=red" alt="Profile Views" />
+</p>
 
-<br>
-
-[![Codewars Badge](https://www.codewars.com/users/hardsoncore/badges/large)](https://www.codewars.com/users/hardsoncore)
-
+<br clear="both" />
