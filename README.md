@@ -24,12 +24,13 @@ My work is grounded in a solid understanding of software development principles,
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="30" height="30" /> Facts about me (that nobody asked for)
 
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Biking.png" alt="Person Biking" width="25" height="25" /> **Cycling:** I can ride 150+ km in a single trip. I’m really into bikepacking.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Camping.png" alt="Camping" width="25" height="25" /> **Hiking:** exploring the world on my own two feet is another passion of mine. If I’m not coding, you’ll probably find me somewhere in the forest or in the mountains with a tent.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" /> **Assistant:** I have the best code reviewer in the world - my AmStaff dog, Diuna.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> **Recharge:** books and PS4 help me explore new worlds, even during long winter evenings.
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Biking.png" alt="Person Biking" width="25" height="25" align="center" /> **Cycling:** I can ride 150+ km in a single day trip. I’m really into bikepacking.
 
-<br>
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Camping.png" alt="Camping" width="25" height="25" align="center" /> **Hiking:** love to explore the world on foot. Outside of work, you'll find me camping somewhere in the wild.
+
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" align="center" /> **Assistant:** I have the best code reviewer in the world - my AmStaff dog, Diuna.
+
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" align="center" /> **Recharge:** books and PS4 help me explore new worlds, even during long winter evenings.
 
 ---
 
