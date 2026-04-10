@@ -31,11 +31,13 @@ Having worked with teams of various sizes, I have extensive experience in both d
 
 &ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Biking.png" alt="Person Biking" width="25" height="25" align="center" /> **Cycling:** I can ride 150+ km in a single day trip. I’m really into bikepacking.
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Camping.png" alt="Camping" width="25" height="25" align="center" /> **Hiking:** love to explore the world on foot. Outside of work, you'll find me camping somewhere in the wild.
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Camping.webp" alt="Camping" width="25" height="25" /> **Hiking:** love to explore the world on foot. Outside of work, you'll find me camping somewhere in the wild.
 
 &ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" align="center" /> **Assistant:** I have the best code reviewer in the world - my AmStaff dog, Diuna.
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" align="center" /> **Recharge:** books and PS4 help me explore new worlds, even during long winter evenings.
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" /> **The Digital Backstage**: Beyond daily tasks, I love digging into web development's "under-the-hood" mechanics.
+
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> **Recharge:** books and PS4 help me explore new worlds, even during long winter evenings.
 
 ---
 
