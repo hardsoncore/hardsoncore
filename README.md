@@ -2,12 +2,17 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=true&width=435&lines=Frontend+Developer;Angular+%26+Vue+Enthusiast;Based+in+Poland;Cycling+Addict+🚴‍♂️)](https://git.io/typing-svg)-->
 
-I am a Ukrainian Frontend Developer currently based in Poland, specializing in building fast and user-friendly interfaces using a blend of modern and battle-tested frameworks. 
+I am a Skilled Software Developer currently based in Poland, focused on building high-performance and user-friendly web interfaces. My approach combines modern ecosystem standards with the reliability of battle-tested frameworks.
 
 Сore expertise centers on <b>Angular</b> and <b>Vue</b>, backed by <b>TypeScript</b> and <b>JavaScript</b>, allowing me to deliver scalable and performant web solutions. I ensure code reliability and logic correctness through comprehensive unit testing with <b>Jest</b>.
 My work is grounded in a solid understanding of software development principles, design patterns, and best practices to ensure maintainable and scalable codebases.
 
-<br>
+I advocate for a pragmatic approach to code quality, applying <b>SOLID</b> and <b>design patterns</b> where they truly make sense for the project's long-term health and team efficiency.
+
+Beyond the browser, I have non-commercial experience with <b>Node.js</b> and <b>Express</b>, which allows me to better understand the full-stack lifecycle and API design.
+
+Having worked with teams of various sizes, I have extensive experience in both developing new features and supporting legacy codebases, ensuring they remain stable and performant.
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crutch.png" alt="Crutch" width="30" height="30" /> Tech Stack 
 
@@ -21,7 +26,6 @@ My work is grounded in a solid understanding of software development principles,
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 </div>
 
-<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="30" height="30" /> Facts about me (that nobody asked for)
 
@@ -39,8 +43,7 @@ My work is grounded in a solid understanding of software development principles,
   <a href="https://www.codewars.com/users/hardsoncore">
     <img align="left" height="30" src="https://www.codewars.com/users/hardsoncore/badges/large" alt="Codewars Badge" />
   </a>
-  
-  <img align="right" height="30" src="https://komarev.com/ghpvc/?username=hardsoncore&style=for-the-badge&color=red" alt="Profile Views" />
+    <!-- <img align="right" height="30" src="https://komarev.com/ghpvc/?username=hardsoncore&style=for-the-badge&color=red" alt="Profile Views" /> -->
 </p>
 
 <br clear="both" />
