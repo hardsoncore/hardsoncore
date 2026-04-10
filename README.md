@@ -4,7 +4,24 @@
 
 I am a Skilled Software Developer currently based in Poland, focused on building high-performance and user-friendly web interfaces. My approach combines modern ecosystem standards with the reliability of battle-tested frameworks.
 
-Сore expertise centers on <b>Angular</b> and <b>Vue</b>, backed by <b>TypeScript</b> and <b>JavaScript</b>, allowing me to deliver scalable and performant web solutions. I ensure code reliability and logic correctness through comprehensive unit testing with <b>Jest</b>.
+Сore expertise centers on <b>Angular</b> and <b>Vue.js</b>, backed by <b>TypeScript</b> and <b>modern JavaScript</b>, with a focus on creating maintainable frontend architectures that solve real business problems. 
+
+Beyond the browser, I have non-commercial experience with <b>Node.js</b> and <b>Express</b>, which allows me to better understand the full-stack lifecycle and API design.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> Professional Philosophy
+I believe in writing code that is not just functional, but maintainable. Rather than claiming "perfect" architecture, I focus on:
+
+ - **Best Practices**: Striving to apply SOLID principles and common Design Patterns where they provide real value to the project.
+
+ - **Legacy Code**: I have a proven track record of working with and supporting legacy codebases, refactoring them thoughtfully without breaking existing functionality.
+
+ - **Adaptability**: Having worked in teams of various sizes, I understand the importance of clear communication, documentation, and agile collaboration.
+
+ - **Quality**: Integrating Unit Testing (Jest) and focusing on web performance and DOM optimization.
+
+
+<!-- 
+I ensure code reliability and logic correctness through comprehensive unit testing with <b>Jest</b>.
 My work is grounded in a solid understanding of software development principles, design patterns, and best practices to ensure maintainable and scalable codebases.
 
 I advocate for a pragmatic approach to code quality, applying <b>SOLID</b> and <b>design patterns</b> where they truly make sense for the project's long-term health and team efficiency.
@@ -12,6 +29,7 @@ I advocate for a pragmatic approach to code quality, applying <b>SOLID</b> and <
 Beyond the browser, I have non-commercial experience with <b>Node.js</b> and <b>Express</b>, which allows me to better understand the full-stack lifecycle and API design.
 
 Having worked with teams of various sizes, I have extensive experience in both developing new features and supporting legacy codebases, ensuring they remain stable and performant.
+-->
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crutch.png" alt="Crutch" width="30" height="30" /> Tech Stack 
@@ -31,13 +49,13 @@ Having worked with teams of various sizes, I have extensive experience in both d
 
 &ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Biking.png" alt="Person Biking" width="25" height="25" align="center" /> **Cycling:** I can ride 150+ km in a single day trip. I’m really into bikepacking.
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Camping.webp" alt="Camping" width="25" height="25" /> **Hiking:** love to explore the world on foot. Outside of work, you'll find me camping somewhere in the wild.
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Camping.webp" alt="Camping" width="25" height="25" align="center" /> **Hiking:** love to explore the world on foot. Outside of work, you'll find me camping somewhere in the wild.
 
 &ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" align="center" /> **Assistant:** I have the best code reviewer in the world - my AmStaff dog, Diuna.
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" /> **The Digital Backstage**: Beyond daily tasks, I love digging into web development's "under-the-hood" mechanics.
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" align="center" /> **The Digital Backstage**: Beyond daily tasks, I love digging into web development's "under-the-hood" mechanics.
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> **Recharge:** books and PS4 help me explore new worlds, even during long winter evenings.
+&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" align="center" /> **Recharge:** books and PS4 help me explore new worlds, even during long winter evenings.
 
 ---
 
