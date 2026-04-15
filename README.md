@@ -8,7 +8,7 @@ I am a Skilled Software Developer currently based in Poland, focused on building
 
 Beyond the browser, I have non-commercial experience with <b>Node.js</b> and <b>Express</b>, which allows me to better understand the full-stack lifecycle and API design.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> Professional Philosophy
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /></picture> Professional Philosophy
 I believe in writing code that is not just functional, but maintainable. Rather than claiming "perfect" architecture, I focus on:
 
  - **Best Practices**: Striving to apply SOLID principles and common Design Patterns where they provide real value to the project.
@@ -31,8 +31,7 @@ Beyond the browser, I have non-commercial experience with <b>Node.js</b> and <b>
 Having worked with teams of various sizes, I have extensive experience in both developing new features and supporting legacy codebases, ensuring they remain stable and performant.
 -->
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crutch.png" alt="Crutch" width="30" height="30" /> Tech Stack 
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crutch.png" alt="Crutch" width="30" height="30" /></picture> Tech Stack
 
 <div align="left">
  <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
@@ -45,17 +44,17 @@ Having worked with teams of various sizes, I have extensive experience in both d
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="30" height="30" /> Facts about me (that nobody asked for)
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="30" height="30" /></picture> Facts about me (that nobody asked for)
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Biking.png" alt="Person Biking" width="25" height="25" align="center" /> **Cycling:** I can ride 150+ km in a single day trip. I’m really into bikepacking.
+&ensp;<picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Biking.png" alt="Person Biking" width="25" height="25" align="center" /></picture> **Cycling:** I can ride 150+ km in a single day trip. I’m really into bikepacking.
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Camping.webp" alt="Camping" width="25" height="25" align="center" /> **Hiking:** love to explore the world on foot. Outside of work, you'll find me camping somewhere in the wild.
+&ensp;<picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Camping.webp" alt="Camping" width="25" height="25" align="center" /></picture> **Hiking:** love to explore the world on foot. Outside of work, you'll find me camping somewhere in the wild.
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" align="center" /> **Assistant:** I have the best code reviewer in the world - my AmStaff dog, Diuna.
+&ensp;<picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" align="center" /></picture> **Assistant:** I have the best code reviewer in the world - my AmStaff dog, Diuna.
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" align="center" /> **The Digital Backstage**: Beyond daily tasks, I love digging into web development's "under-the-hood" mechanics.
+&ensp;<picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Right.webp" alt="Magnifying Glass Tilted Right" width="25" height="25" align="center" /></picture> **The Digital Backstage**: Beyond daily tasks, I love digging into web development's "under-the-hood" mechanics.
 
-&ensp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" align="center" /> **Recharge:** books and PS4 help me explore new worlds, even during long winter evenings.
+&ensp;<picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" align="center" /></picture> **Recharge:** books and PS4 help me explore new worlds, even during long winter evenings.
 
 ---
 
