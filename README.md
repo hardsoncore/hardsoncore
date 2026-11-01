@@ -31,6 +31,18 @@ Beyond the browser, I have non-commercial experience with <b>Node.js</b> and <b>
 Having worked with teams of various sizes, I have extensive experience in both developing new features and supporting legacy codebases, ensuring they remain stable and performant.
 -->
 
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered%20Flag" width="30" height="30" /></picture> Featured Project: Bookich - Reading Diary with AI
+
+A reading tracker with AI-powered book recommendations, which I designed, built and shipped solo. It's live on Google Play.
+
+- **End-to-end ownership:** product idea, UI/UX, backend, release and monetization.
+- **LLM integration:** Gemini API for personalized recommendations based on a user's reading history.
+- **Serverless backend:** Cloudflare, with a remote kill switch and a forced-update mechanism, so I can control the app without shipping a new release.
+- **Production-ready:** subscriptions via RevenueCat, cost controls against API abuse, and a full Google Play release cycle (closed testing → production).
+- **AI-assisted workflow:** built with Claude Code, which is how I approach modern development day to day.
+
+<a href="https://play.google.com/store/apps/details?id=com.diunalabs.bookich"><img src="https://img.shields.io/badge/📚_Bookich-Get_it_on_Google_Play-C62828?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=7F1D1D" /></a>
+
 ## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crutch.png" alt="Crutch" width="30" height="30" /></picture> Tech Stack
 
 <div align="left">
