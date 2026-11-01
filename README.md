@@ -2,7 +2,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=true&width=435&lines=Frontend+Developer;Angular+%26+Vue+Enthusiast;Based+in+Poland;Cycling+Addict+🚴‍♂️)](https://git.io/typing-svg)-->
 
-I am a Skilled Software Developer currently based in Poland, focused on building high-performance and user-friendly web interfaces. My approach combines modern ecosystem standards with the reliability of battle-tested frameworks.
+I am a Software Developer currently based in Poland, focused on building high-performance and user-friendly web interfaces. My approach combines modern ecosystem standards with the reliability of battle-tested frameworks.
 
 Сore expertise centers on <b>Angular</b> and <b>Vue.js</b>, backed by <b>TypeScript</b> and <b>modern JavaScript</b>, with a focus on creating maintainable frontend architectures that solve real business problems. 
 
